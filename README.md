@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NLP,ML and CV**
 
-- 🌱 I’m currently learning **MERN Stac**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, C++, Python, JavaScript, HTML, CSS**
 
