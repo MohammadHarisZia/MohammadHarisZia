@@ -1,16 +1,15 @@
 <h3>A Curious Developer Finding his passions.</h3>
 
-<div align="center">
-    <a href="https://github.com/MohammadHarisZia">
-        <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-    </a>
-</div>
+
 
 ## Portfolio
 <div align="center">
     <a href="https://mohammadhariszia.vercel.app">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/assets/introduction.gif" alt="Hi, I'm Haris 👋 I'm a 🚀 Software developer 🚀 I ❤️ building products">
 </div>
+    
+<br/>  
+
 
 ## Github Statistics
 <div align="center">
@@ -31,6 +30,19 @@
   </a>
 </div>  
     
+<br/>  
+
+    
+    
+## Contribution Graph
+<div align="center">
+    <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg">
+      <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg" alt="Mohammad Haris Zia Contribution Graph">
+      </a>
+</div>  
+    
+<br/>  
+
 
 ## Spotify Listen History
 <div align="center">
@@ -38,6 +50,13 @@
 </div>  
 
 <br/>  
+    
+    
+<div align="center">
+    <a href="https://github.com/MohammadHarisZia">
+        <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+    </a>
+</div>
 
 
 <details>
@@ -70,13 +89,8 @@
 </details>
  
  
- <details>
-  <summary>📉 Contribution Graph</summary>   
-  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg">
-  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg" alt="Mohammad Haris Zia Contribution Graph">
-  </a>
-</details>
 
+  
 
 
 
