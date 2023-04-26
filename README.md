@@ -4,8 +4,13 @@
     <a href="https://github.com/MohammadHarisZia">
         <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
     </a>
-</div
+</div>
 
+##Portfolio
+<div align="center">
+    <a href="https://mohammadhariszia.vercel.app">
+    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/assets/introduction.gif" alt="Hi, I'm Haris 👋 I'm a 🚀 Software developer 🚀 I ❤️ building products">
+</div>
 
 ## Github Statistics
 <div align="center">
@@ -35,14 +40,6 @@
 <br/>  
 
 
-
-
- <details>
-  <summary>🚀 Portfolio</summary>    
-<a href="https://mohammadhariszia.vercel.app">
-<img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/assets/introduction.gif" alt="Hi, I'm Haris 👋 I'm a 🚀 Software developer 🚀 I ❤️ building products">
-</details>
-  
 <details>
   <summary>😶‍🌫️ About Me</summary>     
     <div>
