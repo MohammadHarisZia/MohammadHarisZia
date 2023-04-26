@@ -1,12 +1,4 @@
-## Mohammad Haris Zia
-<details>
-  <summary>🚀 Portfolio</summary>     
-<div align="center">
-    <a href="https://mohammadhariszia.vercel.app">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/assets/introduction.gif" alt="Hi, I'm Haris 👋 I'm a 🚀 Software developer 🚀 I ❤️ building products">
-</div>
-</details>    
-    
+## Mohammad Haris Zia   
 <details>
   <summary>😶‍🌫️ About Me</summary>     
     <div>
