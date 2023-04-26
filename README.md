@@ -30,20 +30,23 @@
 </details>
   
 <details>
+  <summary>😶‍🌫️ About Me</summary>     
+    
+    - 🔭 I’m currently working on **NLP,ML and CV**
+
+    - 🌱 I’m currently learning **MERN Stack**
+
+    - 💬 Ask me about **Java, C++, Python, JavaScript, HTML, CSS**
+
+    - 📫 How to reach me **mohammadhariszia@gmail.com**
+
+    - 📄 Know about my experiences [https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing](https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing)
+
+    - ⚡ Fun fact **I think I can do it all**
+ </details>
+
+<details>
   <summary>🤖 Details</summary>     
-  <p align="left"> <a href="https://twitter.com/mohammadharisz2" target="blank"><img src="https://img.shields.io/twitter/follow/mohammadharisz2?logo=twitter&style=for-the-badge" alt="mohammadharisz2" /></a> </p>
-
-- 🔭 I’m currently working on **NLP,ML and CV**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **Java, C++, Python, JavaScript, HTML, CSS**
-
-- 📫 How to reach me **mohammadhariszia@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing](https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing)
-
-- ⚡ Fun fact **I think I can do it all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
