@@ -1,7 +1,8 @@
+<h3 align="center">A Curious Developer Finding his passions.</h3>
+
 <p align="center">
   <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/assets/introduction.gif" alt="Hi, I'm Haris 👋 I'm a 🚀 Software developer 🚀 I ❤️ building products">
 </p>
-<h3 align="center">A Curious Developer Finding his passions.</h3>
 
 <div align="center">
   <a href="https://github.com/MohammadHarisZia">
