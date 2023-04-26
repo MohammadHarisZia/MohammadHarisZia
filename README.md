@@ -49,5 +49,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&redirect=true)
 
+![](./profile-3d-contrib/profile-green-animate.svg) 
+ 
 
 
