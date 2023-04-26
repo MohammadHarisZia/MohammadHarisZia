@@ -3,6 +3,11 @@
 </p>
 <h3 align="center">A Curious Developer Finding his passions.</h3>
 
+<div align="center">
+  <a href="https://github.com/MohammadHarisZia">
+  <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"/>
 
