@@ -1,12 +1,30 @@
 <h3>A Curious Developer Finding his passions.</h3>
 
-[![](https://raw.githubusercontent.com/MohammadHarisZia/MohammadHarisZia/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MohammadHarisZia/MohammadHarisZia/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MohammadHarisZia/MohammadHarisZia/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MohammadHarisZia/MohammadHarisZia/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MohammadHarisZia/MohammadHarisZia/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/MohammadHarisZia">
+    <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&redirect=true)
 
 
+ <details>
+  <summary>🗿 Github Statistics</summary> 
+  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Mohammad Haris Zia Profile Card">
+  </a>
+  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Mohammad Haris Zia Profile Card">
+  </a>
+  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Mohammad Haris Zia Profile Card">
+  </a>
+  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Mohammad Haris Zia Profile Card">
+  </a>
+  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Mohammad Haris Zia Profile Card">
+  </a>
+</details>
 
  <details>
   <summary>🚀 Portfolio</summary>    
@@ -45,15 +63,14 @@
  
  
  <details>
-  <summary>🚀 Contribution Graph</summary>   
+  <summary>📉 Contribution Graph</summary>   
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg">
   <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg" alt="Mohammad Haris Zia Contribution Graph">
+  </a>
 </details>
-<a href="https://github.com/MohammadHarisZia">
-    <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&redirect=true)
+
+
 
  
 
