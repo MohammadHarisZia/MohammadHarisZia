@@ -4,7 +4,12 @@
     <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&redirect=true)
+## Spotify Listen History
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<br/>  
+
+
 
  <details>
   <summary>🗿 Github Statistics</summary> 
