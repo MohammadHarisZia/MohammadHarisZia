@@ -46,12 +46,7 @@
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Mohammad Haris Zia Profile Card">
   </a>
-  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Mohammad Haris Zia Profile Card">
-  </a>
-  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Mohammad Haris Zia Profile Card">
-  </a>
+ 
 </div>  
     
 <br/>  
