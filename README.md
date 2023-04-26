@@ -43,17 +43,11 @@
 
 </details>
 
-
-<details>
-  <summary>🚀 Snake</summary>   
 <a href="https://github.com/MohammadHarisZia">
     <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </a>
-</details>
-  
-<details>
-  <summary>🚀 Snake</summary>   
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ckyxmux1folfh6g5l0cm783kg&redirect=true)
-</details>
+
 
 
