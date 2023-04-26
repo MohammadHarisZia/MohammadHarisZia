@@ -33,8 +33,8 @@
   <summary>😶‍🌫️ About Me</summary>     
     <div>
     <h2 align="center">😶‍🌫️ About Me</h2>
-        <p>🔭 I’m currently working on **Typescript, Next JS**</p>
-        <p>🌱 I’m currently learning best practices of <bold>Full Stack Development</bold></p>
+        <p>🔭 I’m currently working on <b>Typescript, Next JS</b></p>
+        <p>🌱 I’m currently learning best practices of <b>Full Stack Development</b></p>
         <p>💬 Ask me about <bold>Full Stack Product Developement, Machine learning and UX</bold></p>
         <p>📄 Know about my experiences [https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing](https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing)</p>
         <p>⚡ Fun fact <bold>I think I can do it all</bold></p>
