@@ -45,8 +45,9 @@
  
  
  <details>
-  <summary>🚀 Contribution Graph</summary>
-  ![](./profile-3d-contrib/profile-night-view.svg)   
+  <summary>🚀 Contribution Graph</summary>   
+  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg">
+  <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-view.svg" alt="Mohammad Haris Zia Contribution Graph">
 </details>
 <a href="https://github.com/MohammadHarisZia">
     <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
