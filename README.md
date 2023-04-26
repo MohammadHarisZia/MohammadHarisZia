@@ -31,7 +31,7 @@
   
 <details>
   <summary>😶‍🌫️ About Me</summary>     
-    
+    <div>
     <p>🔭 I’m currently working on **Typescript, Next JS**</p>
 
     <p>🌱 I’m currently learning best practices of **Full Stack Development**</p>
@@ -41,6 +41,7 @@
     <p>📄 Know about my experiences [https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing](https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing)</p>
 
     <p>⚡ Fun fact **I think I can do it all**</p>
+    </div>
  </details>
 
 <details>
