@@ -32,17 +32,15 @@
 <details>
   <summary>😶‍🌫️ About Me</summary>     
     
-    - 🔭 I’m currently working on **NLP,ML and CV**
+    <p>🔭 I’m currently working on **Typescript, Next JS**</p>
 
-    - 🌱 I’m currently learning **MERN Stack**
+    <p>🌱 I’m currently learning best practices of **Full Stack Development**</p>
 
-    - 💬 Ask me about **Java, C++, Python, JavaScript, HTML, CSS**
+    <p>💬 Ask me about **Full Stack Product Developement, Machine learning and UX**</p>
 
-    - 📫 How to reach me **mohammadhariszia@gmail.com**
+    <p>📄 Know about my experiences [https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing](https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing)</p>
 
-    - 📄 Know about my experiences [https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing](https://drive.google.com/file/d/19lEMsAypkUBNhw0gAM24w0DKIapjyaaX/view?usp=sharing)
-
-    - ⚡ Fun fact **I think I can do it all**
+    <p>⚡ Fun fact **I think I can do it all**</p>
  </details>
 
 <details>
