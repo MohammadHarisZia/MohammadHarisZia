@@ -1,4 +1,4 @@
-## Hi I am Mohammad Haris Zia, A passionate product developer and manager      
+## 👋 Hi I am Mohammad Haris Zia, A passionate product developer and manager      
   <div>
       <p>🔭 I’m currently working on <b>Typescript, Next JS, React Native and Python</b></p>
       <p>🌱 I’m currently learning best practices of <b>Full Stack Development</b></p>
