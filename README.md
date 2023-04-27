@@ -1,14 +1,17 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I am Mohammad Haris Zia </h1>
 <h4 align="center">A passionate product developer and manager.</h4>
-  <div>
+
+<br/>
+
+ <div>
       <p>🔭 I’m currently working on <b>Typescript, Next JS, React Native and Python</b></p>
       <p>🌱 I’m currently learning best practices of <b>Full Stack Development</b></p>
       <p>💬 Ask me about <b>Full Stack Product Developement, Machine learning and UX</b></p>
       <p>⚡ Fun fact <b>I think I can do it all</b></p>
-  </div>
-
-
-
+ </div>
+ 
+<br/>
+ 
 ## Connect with me  
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammadhariszia/" target="_blank">
@@ -30,12 +33,11 @@
 <br/>  
   
 ## Statistics
+
 <div align="center">
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Mohammad Haris Zia Contribution Graph">
   </a>
-  
- 
 </div>  
     
 <br/>  
@@ -53,16 +55,3 @@
         <img  src="https://github.com/MohammadHarisZia/MohammadHarisZia/raw/output/github-contribution-grid-snake.svg" alt="snake" />
     </a>
 </div>
-
-
-
- 
-
-  
-
-
-
-
- 
-
-
