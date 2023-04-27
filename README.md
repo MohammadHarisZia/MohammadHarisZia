@@ -72,10 +72,13 @@
   </tr>
   <tr>
     <td valign="top" width="33%">
-     ### Cloud Technologies
-     ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)&nbsp;
-     ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+    <h2>Databases & ORM/ODM</h2>
+    <span class="note" align="center">
+     <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
+     <img src=https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white />&nbsp;
+     <img src=https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white />&nbsp;
+     <img src=https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white/>&nbsp;
+   </span>
      </td>
   </tr>
 </table>
