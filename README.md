@@ -27,19 +27,10 @@
 </details>
 <br/>  
   
-## Github Statistics
+## Statistics
 <div align="center">
-  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Mohammad Haris Zia Profile Card">
-  </a>
-  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Mohammad Haris Zia Profile Card">
-  </a>
-  <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Mohammad Haris Zia Profile Card">
-  </a>
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Mohammad Haris Zia Contribution Graph" width="68%">
+    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Mohammad Haris Zia Contribution Graph" width="90%">
   </a>
   
  
