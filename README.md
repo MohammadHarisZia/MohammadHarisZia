@@ -32,7 +32,7 @@
 ## Statistics
 <div align="center">
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg">
-    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Mohammad Haris Zia Contribution Graph" width="90%">
+    <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg" alt="Mohammad Haris Zia Contribution Graph">
   </a>
   
  
