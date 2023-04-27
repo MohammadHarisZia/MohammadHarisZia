@@ -70,6 +70,14 @@
    </span>
   </td>
   </tr>
+  <tr>
+    <td valign="top" width="33%">
+     ### Cloud Technologies
+     ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)&nbsp;
+     ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+     </td>
+  </tr>
 </table>
   
 ## Statistics
