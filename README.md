@@ -4,7 +4,7 @@
 <br/>
 
  <div>
-      <p>🔭 I’m currently working on <b>Typescript, Next JS, React Native and Python</b></p>
+      <p>🔭 I’m currently working on <b>Typescript, Next JS, Graph QL, React Native and Python</b></p>
       <p>🌱 I’m currently learning best practices of <b>Full Stack Development</b></p>
       <p>💬 Ask me about <b>Full Stack Product Developement, Machine learning and UX</b></p>
       <p>⚡ Fun fact <b>I think I can do it all</b></p>
