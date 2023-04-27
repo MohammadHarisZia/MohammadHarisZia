@@ -1,4 +1,4 @@
-## 👋 Hi I am Mohammad Haris Zia, A passionate product developer and manager      
+##  Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I am Mohammad Haris Zia, A passionate product developer and manager      
   <div>
       <p>🔭 I’m currently working on <b>Typescript, Next JS, React Native and Python</b></p>
       <p>🌱 I’m currently learning best practices of <b>Full Stack Development</b></p>
