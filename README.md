@@ -33,7 +33,7 @@
 
 ## Languages and Tools
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" style="border: 1px solid black; border-radius: 10px;">
 
 <h2>Frontend</h2>
 <span class="note" align="center">
