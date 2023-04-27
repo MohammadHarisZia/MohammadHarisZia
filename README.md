@@ -32,13 +32,32 @@
 <br/>
 
 ## Languages and Tools
-<div align="center">
- <h2>Frontend</h2>
-  <a href="https://www.linkedin.com/in/mohammadhariszia/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
- </div> 
-<br/>  
+
+<table><tr><td valign="top" width="33%">
+
+<h2>Frontend</h2>
+<span class="note" align="center">
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+  
+</span>
+
+</td><td valign="top" width="33%">
+
+### Backend  
+<span class="note" align="center">
+
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+
+</span>
+
+</td><td valign="top" width="33%">
+
+</td></tr></table>
   
 ## Statistics
 <div align="center">
