@@ -120,23 +120,18 @@
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-&nbsp;
 </div>  
     
 <br/>  
