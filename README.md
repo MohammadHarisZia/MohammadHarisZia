@@ -91,6 +91,15 @@
        <img src=https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white />&nbsp;
+      </span>
+     </td>
+    <td valign="top" width="33%">
+      <h2>Design</h2>
+      <span class="note" align="center">
+       <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />&nbsp;
+       <img src=https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white/>&nbsp;
       </span>
      </td>
   </tr>
