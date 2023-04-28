@@ -36,7 +36,7 @@
 <table>
  <tr>
   <td valign="top" width="33%">
-    <h2>Frontend</h2>
+    <h2 align="center">Frontend</h2>
     <span align="center">
      <img src=https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white />&nbsp;
@@ -50,7 +50,7 @@
   </td>
  
   <td valign="top" width="33%">
-  <h2>Backend</h2>
+  <h2 align="center">Backend</h2>
   <span align="center">
    <img src=https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white />&nbsp;
    <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge />&nbsp;
@@ -61,7 +61,7 @@
  </td>
  
   <td valign="top" width="33%">
-   <h2>Databases</h2>
+   <h2 align="center">Databases</h2>
     <span align="center">
      <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white />&nbsp;
@@ -74,7 +74,7 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-     <h2>Cloud</h2>
+     <h2 align="center">Cloud</h2>
      <span class="note" align="center">
       <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />&nbsp;
       <img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white />&nbsp;
@@ -83,7 +83,7 @@
      </span>
     </td>
    <td valign="top" width="33%">
-      <h2>Devops and Versioning</h2>
+      <h2 align="center">Devops and Versioning</h2>
       <span class="note" align="center">
        <img src=https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white />&nbsp;
@@ -94,7 +94,7 @@
       </span>
      </td>
     <td valign="top" width="33%">
-      <h2>Design</h2>
+      <h2 align="center">Design</h2>
       <span class="note" align="center">
        <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />&nbsp;
