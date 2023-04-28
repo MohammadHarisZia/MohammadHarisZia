@@ -61,24 +61,35 @@
  </td>
  
   <td valign="top" width="33%">
-   <h2>Databases & ORM/ODM</h2>
+   <h2>Databases</h2>
     <span class="note" align="center">
      <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white/>&nbsp;
+     <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
    </span>
   </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
-    <h2>Databases & ORM/ODM</h2>
-    <span class="note" align="center">
-     <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
-     <img src=https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white />&nbsp;
-     <img src=https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white />&nbsp;
-     <img src=https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white/>&nbsp;
-   </span>
+     <h2>Cloud</h2>
+     <span class="note" align="center">
+      <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />&nbsp;
+      <img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white />&nbsp;
+      <img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 />&nbsp;
+      <img src=https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white />&nbsp;    
+     </span>
+    </td>
+   <td valign="top" width="33%">
+      <h2>Devops and Versioning</h2>
+      <span class="note" align="center">
+       <img src=https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white />&nbsp;
+      </span>
      </td>
   </tr>
 </table>
