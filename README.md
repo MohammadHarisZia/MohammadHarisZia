@@ -42,7 +42,7 @@
   <td valign="top" width="33%">
     <h2 align="center">Frontend</h2>
     <span align="center">
-     <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white />&nbsp;
+     <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white &nbsp;&nbsp;
      <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB />&nbsp;
      <img src=https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white />&nbsp;
@@ -120,23 +120,23 @@
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-<br/>
+&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-<br/>
+&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-<br/>
+&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-<br/>
+&nbsp;
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
-<br/>
+&nbsp;
 </div>  
     
 <br/>  
