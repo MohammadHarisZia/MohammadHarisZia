@@ -37,7 +37,7 @@
  <tr>
   <td valign="top" width="33%">
     <h2>Frontend</h2>
-    <span class="note" align="center">
+    <span align="center">
      <img src=https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB />&nbsp;
@@ -51,7 +51,7 @@
  
   <td valign="top" width="33%">
   <h2>Backend</h2>
-  <span class="note" align="center">
+  <span align="center">
    <img src=https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white />&nbsp;
    <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge />&nbsp;
    <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white />&nbsp;
@@ -62,7 +62,7 @@
  
   <td valign="top" width="33%">
    <h2>Databases</h2>
-    <span class="note" align="center">
+    <span align="center">
      <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white />&nbsp;
