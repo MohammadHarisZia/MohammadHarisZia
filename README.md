@@ -17,19 +17,19 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammadhariszia/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>&nbsp;
+  </a>
   
   <a href="https://twitter.com/MohammadHarisZ2" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>&nbsp;
+  </a>
   
   <a href=https://www.behance.net/muhammazia4 target="_blank">
     <img src=https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-  </a>&nbsp;
+  </a>
   
   <a href="mailto:mohammadhariszia@gmail.com" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=behance style="margin-bottom: 5px;" />
-  </a>&nbsp;
+  </a>
   
 </div>  
 
@@ -120,18 +120,23 @@
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
+<br/>
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
+<br/>
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
+<br/>
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
+<br/>
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg">
     <img src="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Mohammad Haris Zia Profile Summary Card">
   </a>
+<br/>
 </div>  
     
 <br/>  
