@@ -71,7 +71,8 @@
    </span>
   </td>
   </tr>
-  <br/>
+</table>
+<table>
   <tr>
     <td valign="top" width="33%">
      <h2>Cloud</h2>
@@ -94,7 +95,7 @@
      </td>
   </tr>
 </table>
-  
+
 ## Statistics
 <div align="center">
   <a href="https://github.com/MohammadHarisZia/MohammadHarisZia/blob/main/profile-3d-contrib/profile-night-green.svg">
