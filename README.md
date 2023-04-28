@@ -66,7 +66,6 @@
      <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white />&nbsp;
-     <img src=https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white/>&nbsp;
      <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
    </span>
   </td>
