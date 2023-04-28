@@ -35,6 +35,7 @@
 
 <table>
  <tr>
+  <kbd> ![...a)
   <td valign="top" width="33%">
     <h2 align="center">Frontend</h2>
     <span align="center">
@@ -48,7 +49,7 @@
      <img src=https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white/>&nbsp;
     </span>
   </td>
- 
+  <kbd> ![...b)
   <td valign="top" width="33%">
   <h2 align="center">Backend</h2>
   <span align="center">
@@ -67,7 +68,7 @@
    <img src=https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white />&nbsp;  
    </span>
  </td>
- 
+ <kbd> ![...c)
   <td valign="top" width="33%">
    <h2 align="center">Databases</h2>
     <span align="center">
