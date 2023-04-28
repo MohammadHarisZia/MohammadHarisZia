@@ -71,6 +71,7 @@
    </span>
   </td>
   </tr>
+  <br/>
   <tr>
     <td valign="top" width="33%">
      <h2>Cloud</h2>
