@@ -41,7 +41,7 @@
  <tr>
   <td valign="top" width="33%">
     <h2 align="center">Frontend</h2>
-    <span align="center">
+    <div align="center">
      <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white &nbsp;&nbsp;
      <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB />&nbsp;
@@ -50,7 +50,7 @@
      <img src=https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white/>&nbsp;
-    </span>
+    </div>
   </td>
   <td valign="top" width="33%">
   <h2 align="center">Backend</h2>
