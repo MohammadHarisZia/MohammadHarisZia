@@ -150,4 +150,6 @@
     </a>
 </div>
 
- ![](https://komarev.com/ghpvc/?username=MohammadHarisZia)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mohammadhariszia&&style=flat-square" align="center" />
+</div>  
