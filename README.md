@@ -150,6 +150,4 @@
     </a>
 </div>
 
-<div>
  ![](https://komarev.com/ghpvc/?username=MohammadHarisZia)
-</div>
