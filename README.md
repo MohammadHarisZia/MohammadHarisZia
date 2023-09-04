@@ -78,6 +78,7 @@
      <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />&nbsp;
      <img src= https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
+     <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white/>&nbsp;
    </div>
   </td>
   </tr>
