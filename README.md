@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I am Mohammad Haris Zia </h1>
-<h4 align="center">A passionate product developer and manager.</h4>
+<h4 align="center">A passionate product engineer.</h4>
 
 <br/>
 
